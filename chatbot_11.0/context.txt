@@ -1,0 +1,342 @@
+| 0
+ |% Female
+Professionals |  |  |  |  | (cid:29)18%
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+% Female
+Leaders |  |  |  |  | (cid:29)5%
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+% Female |  |  |  |  | (cid:29)27%
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  |CONTENTS
+1 8 Highlights
+Foreword Environmental
+Stewardship
+Core Values 1 Overview 10
+Letter to Stakeholders 2 Reducing Emissions 11
+Message from the Board 3 Climate-Related Risk Management 16
+Operational Overview 4 Water Management 16
+Sustainability at Oasis 5 Biodiversity and Land Use 17
+Environment
+About this Report 6 Spill Prevention and Management 18 Our leak detection and repair pro-
+Performance Highlights 6 Waste Management 19 gram covers all of our infrastructure
+and assets, and we complete over
+20 34 1,200 inspections annually.
+Social Responsibility
+Health, Safety, Community Engagement
+& the Workplace
+Overview 22 Overview 34
+Workforce Safety 24 Stakeholder Engagement 34
+Process Safety 26 Philanthropy and Volunteerism 36
+Crisis Management and Human Rights 37 Social
+Emergency Response 26 We value our people and the com-
+munities in which we live and work,
+Our People and Culture 29
+and we strive to support them in
+Learning and Development 33
+meaningful ways, including through
+volunteerism and engagement in
+38 50
+local initiatives.
+Corporate Governance Data and Disclosures
+Overview 40 Key Performance Data 50
+Board of Directors 40 SASB Index 54
+Executive Pay 44 AXPC Index 58
+Ethics and Compliance 44
+Shareholder Engagement 46
+Public Advocacy and
+Trade Associations 46 Governance
+Risk Management 47 Monitoring cybersecurity risks is
+Cybersecurity 48 a priority for our Board and man-
+agement team, and we system-
+atically identify and manage this
+60
+and other enterprise risks through
+our formal enterprise risk manage-
+ment program.
+Forward-Looking
+Statements
+Forward-Looking Statements 60
+ |  | 
+1 8
+Foreword Environmental
+Stewardship
+Core Values 1 Overview 10
+Letter to Stakeholders 2 Reducing Emissions 11
+Message from the Board 3 Climate-Related Risk Management 16
+Operational Overview 4 Water Management 16
+Sustainability at Oasis 5 Biodiversity and Land Use 17
+About this Report 6 Spill Prevention and Management 18
+Performance Highlights 6 Waste Management 19
+20 34
+Social Responsibility
+Health, Safety, Community Engagement
+& the Workplace
+Overview 22 Overview 34
+Workforce Safety 24 Stakeholder Engagement 34
+Process Safety 26 Philanthropy and Volunteerism 36
+Crisis Management and Human Rights 37
+Emergency Response 26
+Our People and Culture 29
+Learning and Development 33
+38 50
+Corporate Governance Data and Disclosures
+Overview 40 Key Performance Data 50
+Board of Directors 40 SASB Index 54
+Executive Pay 44 AXPC Index 58
+Ethics and Compliance 44
+Shareholder Engagement 46
+Public Advocacy and
+Trade Associations 46
+Risk Management 47
+Cybersecurity 48
+60
+Forward-Looking
+Statements
+Forward-Looking Statements 60 |  | Highlights
+Environment
+Our leak detection and repair pro-
+gram covers all of our infrastructure
+and assets, and we complete over
+1,200 inspections annually.
+Social
+We value our people and the com-
+munities in which we live and work,
+and we strive to support them in
+meaningful ways, including through
+volunteerism and engagement in
+local initiatives.
+Governance
+Monitoring cybersecurity risks is
+a priority for our Board and man-
+agement team, and we system-
+atically identify and manage this
+and other enterprise risks through
+our formal enterprise risk manage-
+ment program.
+ |  |Activity
+Metrics | EM-EP-000.A | Thousand barrels per day (Mbbl/day) | Production of Oil | Sustainability Report –
+Key Performance Data
+ | EM-EP-000.A | Million standard cubic feet per day
+(MMscf/day) | Production of Natural Gas | Sustainability Report –
+Key Performance Data
+ | EM-EP-000.A | Thousand barrels per day (Mbbl/day) | Production of Synthetic Oil | Not Applicable
+ | EM-EP-000.A | Million standard cubic feet per day
+(MMscf/day) | Production of Synthetic Gas | Not Applicable
+ | EM-EP-000.B | Number | Number of Offshore Sites | Not Applicable
+ | EM-EP-000.C | Number | Number of Terrestrial Sites | Sustainability Report –
+Key Performance Data
+
+
+Greenhouse
+Gas Emissions
+(GHG) | EM-EP-110A.1 | Metric tons CO2-e(t) | Gross Global Scope 1 Emissions | Sustainability Report –
+Key Performance Data
+ | EM-EP-110A.1 | Percentage (%) | Percentage Methane | Sustainability Report –
+Key Performance Data
+ | EM-EP-110A.1 | Percentage (%) | Percentage Covered under Emissions-
+Limiting Regulations | Sustainability Report –
+Key Performance Data
+ | EM-EP-110A.2 | Metric tons CO2-e | Gross Global Scope 1 Emissions from
+Flared Hydrocarbons | Not Disclosed
+ | EM-EP-110A.2 | Metric tons CO2-e | Gross Global Scope 1 Emissions from
+Other Combustion | Not Disclosed
+ | EM-EP-110A.2 | Metric tons CO2-e | Gross Global Scope 1 Emissions from
+Process Emissions | Not Disclosed
+ | EM-EP-110A.2 | Metric tons CO2-e | Gross Global Scope 1 Emissions from
+Other Vented Emissions | Not Disclosed
+ | EM-EP-110A.2 | Metric tons CO2-e | Gross Global Scope 1 Emissions from
+Fugitive Emissions | Not Disclosed
+ | EM-EP-110A.3 | Not Applicable | Discussion of Long-term and Short-term
+Strategy or Plan to Manage Scope 1
+Emissions, Emissions Reduction Targets,
+and an Analysis of Performance Against
+Those Targets | Not Disclosed
+
+
+SASB TOPIC CODE UNIT OF MEASURE ACCOUNTING/ACTIVITY METRIC REFERENCE
+Air Quality Air Emissions of the Following Pollutants:
+(1) NOx (excluding N2O), (2) SOx, (3) Vol-
+EM-EP-120a.1 Metric tons (t) Not Disclosed
+atile Organic Compounds (VOCs), and (4)
+Particulate Matter (PM10)
+Water Sustainability Report –
+EM-EP-140a.1 Thousand cubic meters (m3) Total Fresh Water Withdrawn
+Management Key Performance Data
+Sustainability Report –
+EM-EP-140a.1 Thousand cubic meters (m3) Total Fresh Water Consumed
+Key Performance Data
+Percentage of Fresh Water Withdrawn
+Sustainability Report –
+EM-EP-140a.1 Percentage (%) in Regions with High or Extremely High
+Key Performance Data
+Baseline Water Stress
+Percentage of Fresh Water Consumed
+Sustainability Report –
+EM-EP-140a.1 Percentage (%) in Regions with High or Extremely High
+Key Performance Data
+Baseline Water Stress
+Volume of Produced Water and Sustainability Report –
+EM-EP-140a.2 Thousand cubic meters (m3)
+Flowback Generated Key Performance Data
+Percentage of Produced Water and Sustainability Report –
+EM-EP-140a.2 Percentage (%)
+Flowback Discharged Key Performance Data
+Percentage of Produced Water and Sustainability Report –
+EM-EP-140a.2 Percentage (%)
+Flowback Injected Key Performance Data
+Percentage of Produced Water and
+EM-EP-140a.2 Percentage (%) Not Disclosed
+Flowback Recycled
+EM-EP-140a.2 Metric tons (t) Hydrocarbon Content in Discharged Water Not Applicable
+Percentage of Hydraulically Fractured Wells
+Sustainability Report –
+EM-EP-140a.3 Percentage (%) for Which There is Public Disclosure of all
+Key Performance Data
+Fracturing Fluid Chemicals Used
+Percentage of Hydraulic Fracturing Sites
+Sustainability Report –
+EM-EP-140a.4 Percentage (%) Where Ground or Surface Water Quality
+Key Performance Data
+Deteriorated Compared to a Baseline
+2020 SUSTAINABILITY REPORT 55
+SASB TOPIC | CODE | UNIT OF MEASURE | ACCOUNTING/ACTIVITY METRIC | REFERENCE
+
+
+Air Quality | EM-EP-120a.1 | Metric tons (t) | Air Emissions of the Following Pollutants:
+(1) NOx (excluding N2O), (2) SOx, (3) Vol-
+atile Organic Compounds (VOCs), and (4)
+Particulate Matter (PM10) | Not Disclosed
+
+
+Water
+Management | EM-EP-140a.1 | Thousand cubic meters (m3) | Total Fresh Water Withdrawn | Sustainability Report –
+Key Performance Data
+ | EM-EP-140a.1 | Thousand cubic meters (m3) | Total Fresh Water Consumed | Sustainability Report –
+Key Performance Data
+ | EM-EP-140a.1 | Percentage (%) | Percentage of Fresh Water Withdrawn
+in Regions with High or Extremely High
+Baseline Water Stress | Sustainability Report –
+Key Performance Data
+ | EM-EP-140a.1 | Percentage (%) | Percentage of Fresh Water Consumed
+in Regions with High or Extremely High
+Baseline Water Stress | Sustainability Report –
+Key Performance Data
+ | EM-EP-140a.2 | Thousand cubic meters (m3) | Volume of Produced Water and
+Flowback Generated | Sustainability Report –
+Key Performance Data
+ | EM-EP-140a.2 | Percentage (%) | Percentage of Produced Water and
+Flowback Discharged | Sustainability Report –
+Key Performance Data
+ | EM-EP-140a.2 | Percentage (%) | Percentage of Produced Water and
+Flowback Injected | Sustainability Report –
+Key Performance Data
+ | EM-EP-140a.2 | Percentage (%) | Percentage of Produced Water and
+Flowback Recycled | Not Disclosed
+ | EM-EP-140a.2 | Metric tons (t) | Hydrocarbon Content in Discharged Water | Not Applicable
+ | EM-EP-140a.3 | Percentage (%) | Percentage of Hydraulically Fractured Wells
+for Which There is Public Disclosure of all
+Fracturing Fluid Chemicals Used | Sustainability Report –
+Key Performance Data
+ | EM-EP-140a.4 | Percentage (%) | Percentage of Hydraulic Fracturing Sites
+Where Ground or Surface Water Quality
+Deteriorated Compared to a Baseline | Sustainability Report –
+Key Performance Data
+
+
+OASIS PETROLEUM
+SUSTAINABILITY ACCOUNTING STANDARDS BOARD (SASB) CONT
+SASB TOPIC CODE UNIT OF MEASURE ACCOUNTING/ACTIVITY METRIC REFERENCE
+Biodiversity Description of Environmental Management Sustainability Report –
+Impacts EM-EP-160a.1 Not Applicable Discussion and Policies and Practices for Environmental
+Active Sites Stewardship
+Sustainability Report –
+EM-EP-160a.2 Number Number of Hydrocarbon Spills
+Key Performance Data
+Sustainability Report –
+EM-EP-160a.2 Number/Barrels (bbls) Aggregate Volume of Hydrocarbon Spills
+Key Performance Data
+Aggregate Volume of Hydrocarbon Spills
+EM-EP-160a.2 Number/Barrels (bbls) Not Applicable
+in the Arctic
+Aggregate Volume of Hydrocarbon Spills
+EM-EP-160a.2 Number/Barrels (bbls) Not Applicable
+Impacting Shorelines with ESI Ranking 8-10
+Aggregate Volume of Hydrocarbon Sustainability Report –
+EM-EP-160a.2 Number/Barrels (bbls)
+Spills Recovered Key Performance Data
+Percentage of Proved Reserves In or Near
+Sustainability Report –
+EM-EP-160a.3 Percentage (%) Sites with Protected Conservation Status or
+Key Performance Data
+Endangered Species Habitat
+Percentage of Probable Reserves In or Near
+Sustainability Report –
+EM-EP-160a.3 Percentage (%) Sites with Protected Conservation Status or
+Key Performance Data
+Endangered Species Habitat
+Security, Percentage of Proved Reserves In or Sustainability Report –
+EM-EP-210a.1 Percentage (%)
+Human Rights, Near Areas of Conflict Key Performance Data
+& Rights of
+Indigenous Percentage of Probable Reserves In or Sustainability Report –
+EM-EP-210a.1 Percentage (%)
+Peoples Near Areas of Conflict Key Performance Data
+Percentage of Proved Reserves In or Sustainability Report –
+EM-EP-210a.2 Percentage (%)
+Near Indigenous Land Key Performance Data
+Percentage of Probable Reserves In or
+EM-EP-210a.2 Percentage (%) Not Disclosed
+Near Indigenous Land
+Discussion of Engagement Processes and
+Sustainability Report –
+Due Diligence Practices with Respect to
+EM-EP-210a.3 Not Applicable Community
+Human Rights, Indigenous Rights, and
+Engagement
+Operations in Areas of Conflict
+Community Discussion of Process to Manage Risks and Sustainability Report –
+Relations EM-EP-210b.1 Not Applicable Opportunities Associated with Community Community
+Rights and Interests Engagement
+Number and Duration of
+EM-EP-210b.2 Number, Days Not Disclosed
+Non-Technical Delays
+56 A NEW TOMORROW, TODAY
+SASB TOPIC | CODE | UNIT OF MEASURE | ACCOUNTING/ACTIVITY METRIC | REFERENCE
+
+
+Biodiversity
+Impacts | EM-EP-160a.1 | Not Applicable | Description of Environmental Management
+Discussion and Policies and Practices for
+Active Sites | Sustainability Report –
+Environmental
+Stewardship
+ | EM-EP-160a.2 | Number | Number of Hydrocarbon Spills | Sustainability Report –
+Key Performance Data
+ | EM-EP-160a.2 | Number/Barrels (bbls) | Aggregate Volume of Hydrocarbon Spills | Sustainability Report –
+Key Performance Data
+ | EM-EP-160a.2 | Number/Barrels (bbls) | Aggregate Volume of Hydrocarbon Spills
+in the Arctic | Not Applicable
+ | EM-EP-160a.2 | Number/Barrels (bbls) | Aggregate Volume of Hydrocarbon Spills
+Impacting Shorelines with ESI Ranking 8-10 | Not Applicable
+ | EM-EP-160a.2 | Number/Barrels (bbls) | Aggregate Volume of Hydrocarbon
+Spills Recovered | Sustainability Report –
+Key Performance Data
+ | EM-EP-160a.3 | Percentage (%) | Percentage of Proved Reserves In or Near
+Sites with Protected Conservation Status or
+Endangered Species Habitat | Sustainability Report –
+Key Performance Data
+ | EM-EP-160a.3 | Percentage (%) | Percentage of Probable Reserves In or Near
+Sites with Protected Conservation Status or
+Endangered Species Habitat | Sustainability Report –
+Key Performance Data
